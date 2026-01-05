@@ -16,8 +16,6 @@
 </div>
 
 ---
-
-## ⚡ En corto
 - 🎓 Ingeniería de Sistemas — **Pontificia Universidad Javeriana (Bogotá)**
 - 🧠 Enfoque: **fundamentos fuertes**, código limpio y hábitos de ingeniería
 - 🛠️ Lenguajes: **C++ / Java / Python / SQL**
