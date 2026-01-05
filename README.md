@@ -1,36 +1,35 @@
 <div align="center">
-  <h1>Andrés David Ortiz Forero</h1>
-  <p>
-    Estudiante de Ingeniería de Sistemas — Pontificia Universidad Javeriana (Bogotá)<br/>
-    Bilingüe (Español / English)
-  </p>
 
-  <p>
-    <a href="https://github.com/TU_USUARIO_GITHUB">
-      <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas&color=2f81f7&style=flat" alt="Visitas"/>
-    </a>
-  </p>
+<h1>Andrés David Ortiz Forero</h1>
+
+<p>
+Estudiante de Ingeniería de Sistemas<br/>
+Pontificia Universidad Javeriana — Bogotá<br/>
+Bilingüe (Español / English)
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;Fundamentos+s%C3%B3lidos+en+software;Pensamiento+de+ingenier%C3%ADa"
+/>
+
 </div>
 
 ---
 
 ## Perfil
 
-- Enfoque: fundamentos sólidos, claridad al programar y disciplina de ingeniería.
-- Lenguajes principales: C++, Java, Python, SQL.
+Estudiante enfocado en construir **bases técnicas sólidas**, con énfasis en claridad al programar,
+disciplina de ingeniería y comprensión estructural de los sistemas.
+
+Interesado en crecer progresivamente hacia áreas más complejas del software una vez dominados los fundamentos.
 
 ---
 
-## Stack
+## Stack técnico
 
 **Lenguajes**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" />
-</p>
-
-**Bases de datos**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql&theme=dark" />
 </p>
 
 **Herramientas y entorno**
@@ -40,23 +39,12 @@
 
 ---
 
-## GitHub
+## Presencia
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-</div>
-
-<!-- Opcional (si te gusta, si no, bórralo)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
--->
+- Instagram: https://www.instagram.com/dresssortiz/
 
 ---
 
-## Contacto
-
-- Instagram: https://www.instagram.com/dresssortiz/
-- LinkedIn: (ponlo aquí cuando lo tengas)
-- Email: (si quieres que sea público)
+<div align="center">
+<i>Perfil en construcción, fundamentos en serio.</i>
+</div>
