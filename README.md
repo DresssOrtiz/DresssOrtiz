@@ -1,67 +1,62 @@
 <div align="center">
+  <h1>Andrés David Ortiz Forero</h1>
+  <p>
+    Estudiante de Ingeniería de Sistemas — Pontificia Universidad Javeriana (Bogotá)<br/>
+    Bilingüe (Español / English)
+  </p>
 
-<h1>Hola, soy Andrés David Ortiz Forero 👋</h1>
+  <p>
+    <a href="https://github.com/TU_USUARIO_GITHUB">
+      <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas&color=2f81f7&style=flat" alt="Visitas"/>
+    </a>
+  </p>
+</div>
 
+---
+
+## Perfil
+
+- Enfoque: fundamentos sólidos, claridad al programar y disciplina de ingeniería.
+- Lenguajes principales: C++, Java, Python, SQL.
+
+---
+
+## Stack
+
+**Lenguajes**
 <p>
-  Estudiante de Ingeniería de Sistemas — Pontificia Universidad Javeriana (Bogotá) <br/>
-  Bilingüe (Español / English)
+  <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" />
 </p>
 
+**Bases de datos**
 <p>
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-  </a>
-  <img src="https://img.shields.io/badge/Ubicación-Bogotá%2C%20Colombia-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Idiomas-ES%20%7C%20EN-0e75b6?style=flat" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=800&color=0E75B6&center=true&vCenter=true&width=820&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+SQL" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
-## ⚡ En corto
-- 🎓 Ingeniería de Sistemas — **PUJ Bogotá**
-- 🧠 Enfoque actual: **bases sólidas**, código claro y hábitos de ingeniería
-- 💻 Lenguajes: **C++**, **Java**, **Python**, **SQL**
+**Herramientas y entorno**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea&theme=dark" />
+</p>
 
 ---
 
-## 🧰 Tecnologías (logos)
+## GitHub
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,git,github,linux,vscode,idea&perline=9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </div>
 
----
-
-## 📊 GitHub (visual y limpio)
+<!-- Opcional (si te gusta, si no, bórralo)
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 📫 Contacto / Redes
-<div align="center">
-
-<a href="https://www.instagram.com/dresssortiz/">
-  <img src="https://img.shields.io/badge/Instagram-@dresssortiz-0e75b6?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<!-- Si quieres poner email público, descomenta esto y reemplaza TU_EMAIL -->
-<!--
-<a href="mailto:TU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contacto-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 -->
 
-</div>
+---
+
+## Contacto
+
+- Instagram: https://www.instagram.com/dresssortiz/
+- LinkedIn: (ponlo aquí cuando lo tengas)
+- Email: (si quieres que sea público)
