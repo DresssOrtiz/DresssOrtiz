@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=800&color=0E75B6&center=true&vCenter=true&width=820&lines=Construyo+fundamentos+fuertes+en+programaci%C3%B3n+y+software;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=800&color=0E75B6&center=true&vCenter=true&width=820&lines=Construyo+fundamentos+fuertes+en+programaci%C3%B3n+y+software;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL" alt="Typing SVG" />
 </a>
 
 </div>
