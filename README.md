@@ -41,7 +41,8 @@ Interesado en crecer progresivamente hacia áreas más complejas del software un
 
 ## Presencia
 
-- Instagram: https://www.instagram.com/dresssortiz/
+- LinkedIn: [linkedin.com/in/DresssOrtiz](https://www.linkedin.com/in/andrés-david-ortiz-forero-2218ab292/)
+- Instagram: [instagram.com/dresssortiz](https://www.instagram.com/dresssortiz/)
 
 ---
 
