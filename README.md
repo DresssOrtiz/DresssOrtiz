@@ -4,7 +4,6 @@
 
 <p>
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="views" />
   </a>
   <img src="https://img.shields.io/badge/Ubicación-Bogotá%2C%20Colombia-0e75b6?style=flat" />
   <img src="https://img.shields.io/badge/Idiomas-Español%20%7C%20English-0e75b6?style=flat" />
