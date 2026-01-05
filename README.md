@@ -1,61 +1,50 @@
-# Andrés David Ortiz Forero
+<h1 align="center">Hola, soy Andrés David Ortiz Forero 👋</h1>
 
-**Systems Engineering Student**  
-Pontificia Universidad Javeriana – Bogotá  
-Bilingual (Spanish / English)
+<p align="center">
+Estudiante de Ingeniería de Sistemas <br>
+Pontificia Universidad Javeriana – Bogotá <br>
+Bilingüe (Español / Inglés)
+</p>
 
----
-
-## About me
-
-I am a Systems Engineering student with a strong interest in understanding how software systems are designed, built, and maintained in real-world environments.  
-I focus on building solid technical foundations, writing clean code, and developing a disciplined approach to problem-solving.
-
-I value long-term thinking, technical rigor, and continuous learning. My goal is to grow into a well-rounded engineer capable of working on complex systems with real impact.
+<p align="center">
+Apasionado por aprender y construir bases sólidas en ingeniería de software.
+</p>
 
 ---
 
-## Current focus
+## 🧠 Sobre mí
 
-- Strengthening core programming and software engineering fundamentals  
-- Learning how systems behave beyond code (architecture, performance, reliability)  
-- Developing good engineering habits: clarity, structure, and maintainability  
+Soy estudiante de Ingeniería de Sistemas enfocado en fortalecer mis fundamentos técnicos y desarrollar una mentalidad disciplinada para la resolución de problemas.  
+Me interesa entender cómo funcionan los sistemas más allá del código: su estructura, lógica y comportamiento en escenarios reales.
 
----
-
-## Technical skills
-
-**Programming Languages**
-- C++
-- Java
-- Python
-- SQL
-
-**Core Areas**
-- Object-Oriented Programming  
-- Data structures & basic algorithms  
-- Database fundamentals  
-- Software engineering principles  
-
-**Tools & Environment**
-- Git / GitHub  
-- Linux & Windows environments  
-- Visual Studio Code  
+Actualmente priorizo aprender bien **antes de especializarme**, construyendo una base fuerte que me permita crecer hacia áreas más avanzadas en el futuro.
 
 ---
 
-## Academic background
+## 🎯 En qué estoy enfocado ahora
 
-- **B.Sc. in Systems Engineering**  
-  Pontificia Universidad Javeriana – Bogotá  
-  *(Currently enrolled)*
-
----
-
-## Looking ahead
-
-I am interested in gradually exploring advanced areas such as artificial intelligence, cybersecurity, and distributed systems as my technical foundation continues to mature.
+- Fortalecer fundamentos de programación y estructuras de datos  
+- Mejorar buenas prácticas de desarrollo de software  
+- Entender el funcionamiento general de sistemas y aplicaciones  
+- Aprender de forma progresiva y consistente  
 
 ---
 
-> Focused on learning the fundamentals right — before building the future.
+## 💻 Tecnologías y herramientas
+
+### Lenguajes de programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql" />
+</p>
+
+### Herramientas y entornos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea" />
+</p>
+
+---
+
+## 🎓 Formación académica
+
+- **Ingeniería de Sistemas**  
+  Pontificia Universidad Javerian
