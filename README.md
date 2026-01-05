@@ -9,8 +9,9 @@ Bilingüe (Español / English)
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;Fundamentos+s%C3%B3lidos+en+software;Pensamiento+de+ingenier%C3%ADa"
+  src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+de+Sistemas;Pontificia+Universidad+Javeriana+%E2%80%94+Bogot%C3%A1;Biling%C3%BCe+%28Espa%C3%B1ol+%2F+English%29;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL"
 />
+
 
 </div>
 
