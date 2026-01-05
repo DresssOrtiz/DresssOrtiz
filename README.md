@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%E2%80%93+PUJ+Bogot%C3%A1;Ingenieria+de+sistemas;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;Aprender+bien+hoy+para+construir+mejor+ma%C3%B1ana" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%E2%80%93+PUJ+Bogot%C3%A1;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;Aprender+bien+hoy+para+construir+mejor+ma%C3%B1ana" alt="typing" />
 </a>
 
 </div>
