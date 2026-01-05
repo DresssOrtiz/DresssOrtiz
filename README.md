@@ -1,50 +1,69 @@
-<h1 align="center">Hola, soy Andrés David Ortiz Forero 👋</h1>
+<div align="center">
 
-<p align="center">
-Estudiante de Ingeniería de Sistemas <br>
-Pontificia Universidad Javeriana – Bogotá <br>
-Bilingüe (Español / Inglés)
+<h1>Hola, soy Andrés David Ortiz Forero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
+
+<p>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="views" />
+  </a>
+  <img src="https://img.shields.io/badge/Ubicación-Bogotá%2C%20Colombia-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Idiomas-Español%20%7C%20English-0e75b6?style=flat" />
 </p>
 
-<p align="center">
-Apasionado por aprender y construir bases sólidas en ingeniería de software.
-</p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%E2%80%93+PUJ+Bogot%C3%A1;Construyendo+base+s%C3%B3lida+en+programaci%C3%B3n+y+software;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;Aprender+bien+hoy+para+construir+mejor+ma%C3%B1ana" alt="typing" />
+</a>
+
+</div>
 
 ---
 
-## 🧠 Sobre mí
-
-Soy estudiante de Ingeniería de Sistemas enfocado en fortalecer mis fundamentos técnicos y desarrollar una mentalidad disciplinada para la resolución de problemas.  
-Me interesa entender cómo funcionan los sistemas más allá del código: su estructura, lógica y comportamiento en escenarios reales.
-
-Actualmente priorizo aprender bien **antes de especializarme**, construyendo una base fuerte que me permita crecer hacia áreas más avanzadas en el futuro.
+## ⚡ En corto
+- 🎓 Ingeniería de Sistemas — **Pontificia Universidad Javeriana (Bogotá)**
+- 🧠 Enfoque: **fundamentos fuertes**, código limpio y hábitos de ingeniería
+- 🛠️ Lenguajes: **C++ / Java / Python / SQL**
 
 ---
 
-## 🎯 En qué estoy enfocado ahora
-
-- Fortalecer fundamentos de programación y estructuras de datos  
-- Mejorar buenas prácticas de desarrollo de software  
-- Entender el funcionamiento general de sistemas y aplicaciones  
-- Aprender de forma progresiva y consistente  
+## 🧰 Tecnologías y herramientas (logos)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,git,github,linux,windows,vscode,idea&perline=5" />
+</div>
 
 ---
 
-## 💻 Tecnologías y herramientas
+## 📊 Stats (visual, sin exagerar)
+<div align="center">
 
-### Lenguajes de programación
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
-### Herramientas y entornos
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🎓 Formación académica
+## 📈 Actividad (la gráfica que viste en templates)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" />
+</div>
 
-- **Ingeniería de Sistemas**  
-  Pontificia Universidad Javerian
+---
+
+## 🏆 Logros (opcional pero queda cool)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 📫 Contáctame
+<div align="center">
+
+<a href="mailto:TU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN_
